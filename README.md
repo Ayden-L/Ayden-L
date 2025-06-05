@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Ayden! <br/>Technical Support</h1>
+
+<h2>Cybersecurity Projects:</h2>
+
+- <b>Log Integrity Verification System - Python Security Project </b>
+  - [Log Integrity Verification System]()
+- <b>Linux Syscall Interposer for File Access Control - C Security Project </b>
+  - [Linux Syscall Interposer for File Access Control]() 
+
+<h2> Certifications </h2>
+- <b>CompTIA Security+ (Currently In Progress; Expected July 2025)</b>
+
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="AydenLyubimov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ayden-lyubimov/
 
 <!--
-**Ayden-L/Ayden-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
