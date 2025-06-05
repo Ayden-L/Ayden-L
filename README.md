@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Log Integrity Verification System - Python Security Project </b>
-  - [Log Integrity Verification System]()
+  - [Log Integrity Verification System](https://github.com/Ayden-L/LogIntegritySystem)
 - <b>Linux Syscall Interposer for File Access Control - C Security Project </b>
   - [Linux Syscall Interposer for File Access Control]() 
 
