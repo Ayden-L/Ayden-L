@@ -2,8 +2,8 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Log Integrity Verification System - Python Security Project </b>
-  - [Log Integrity Verification System](https://github.com/Ayden-L/LogIntegritySystem)
+* [Log Integrity Verification System - Python Security Project](https://github.com/Ayden-L/LogIntegritySystem)
+  * Developed a tamper evident Python logging server with hash chaining, proof-of-work verification, and base64-encoded SHA-256 log validation
 - <b>Linux Syscall Interposer for File Access Control - C Security Project </b>
   - [Linux Syscall Interposer for File Access Control]() 
 
