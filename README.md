@@ -8,7 +8,8 @@
   * Developed a dynamic library to intercept and override standard system calls (open, readdir) using the LD_PRELOAD technique, enabling user defined control over file visibility and access
 
 <h2> Certifications </h2>
-- <b>CompTIA Security+ (Expected July 2025)</b>
+
+* <b>CompTIA Security+ (Expected July 2025)</b>
 
 <h2> Connect with me:</h2>
 
@@ -17,10 +18,6 @@
 [linkedin]: https://www.linkedin.com/in/ayden-lyubimov/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
