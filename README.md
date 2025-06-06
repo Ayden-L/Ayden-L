@@ -8,7 +8,7 @@
   - [Linux Syscall Interposer for File Access Control]() 
 
 <h2> Certifications </h2>
-- <b>CompTIA Security+ (Currently In Progress; Expected July 2025)</b>
+- <b>CompTIA Security+ (Expected July 2025)</b>
 
 <h2> Connect with me:</h2>
 
