@@ -4,8 +4,8 @@
 
 * [Log Integrity Verification System - Python Security Project](https://github.com/Ayden-L/LogIntegritySystem)
   * Developed a tamper evident Python logging server with hash chaining, proof-of-work verification, and base64-encoded SHA-256 log validation
-- [Linux Syscall Interposer for File Access Control](https://github.com/Ayden-L/Interposer/)
- - Developed a dynamic library to intercept and override standard system calls (open, readdir) using the LD_PRELOAD technique, enabling user defined control over file visibility and access
+* [Linux Syscall Interposer for File Access Control](https://github.com/Ayden-L/Interposer/)
+  * Developed a dynamic library to intercept and override standard system calls (open, readdir) using the LD_PRELOAD technique, enabling user defined control over file visibility and access
 
 <h2> Certifications </h2>
 - <b>CompTIA Security+ (Expected July 2025)</b>
