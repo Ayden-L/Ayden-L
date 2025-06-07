@@ -10,6 +10,7 @@
 <h2> Certifications </h2>
 
 * <b>CompTIA Security+ (Expected July 2025)</b>
+* <b>Apple Repair Certified</b>
 
 <h2> Connect with me:</h2>
 
